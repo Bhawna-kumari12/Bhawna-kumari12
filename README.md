@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Nisha Parwani</h1>
-<h3 align="center">💻 Aspiring Web Developer | 🌱 Exploring Data Science</h3>
+<h1 align="center">Hi 👋, I'm Bhawna kumari</h1>
+<h3 align="center">💻 Junior Data Analyst | Web Developer </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nishaparwani17&label=Profile%20Views&color=0e75b6&style=flat" alt="nishaparwani17" />
@@ -8,8 +8,8 @@
 ---
 
 ### 🌟 Introduction
-I’m a Computer Science student passionate about creating user-friendly and creative web experiences.  
-Improving my front-end development skills while exploring the world of data science.
+I’m a passionate Data Science student with a strong interest in data analytics and front-end development.
+I love turning complex data into meaningful insights and creating websites that are simple, functional, and visually engaging.
 ---
 
 ### 🧰 Skills & Tools
