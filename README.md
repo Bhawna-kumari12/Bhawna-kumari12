@@ -27,8 +27,8 @@ A simple, interactive quiz application that tests knowledge while practicing DOM
 
 📫 Contact
 
-📧 💼  
-
+📧 **Email:** [77bhawnakumari@gmail.com](mailto:77bhawnakumari@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/bhawna-kumari-a288a4374](https://www.linkedin.com/in/bhawna-kumari-a288a4374)  
 Fun Facts
 - I enjoy learning new technologies and challenging myself with creative projects.  
 - For me, data and design are both forms of storytelling — I love blending them together!
