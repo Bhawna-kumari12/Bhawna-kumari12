@@ -1,16 +1,34 @@
-## Hi there 👋
+                                             Hi, I'm Bhawna 
 
-<!--
-**Bhawna-kumari12/Bhawna-kumari12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+                                    Junior Data Analyst | Web Developer  
+#NTRODUCTION:
+I’m a passionate **Data Science student** at **DHA Suffa University, Karachi (2023–2027)**, with a deep interest in data analytics and front-end development.  
+I love transforming complex data into clear insights and building websites that are simple, functional, and visually engaging.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Skills & Tools
+- Languages & Libraries: Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn  
+- Web Technologies: HTML, CSS, JavaScript, Responsive Web Design  
+- Tools & Platforms: Jupyter Notebook, Git, VS Code  
+- Core Strengths: Data Cleaning, EDA, Data Visualization, Reporting
+
+
+💼 Projects
+
+☕ Coffee Project  
+A clean, responsive coffee shop website built using HTML, CSS, and JavaScript — focused on smooth UI and modern design.
+
+🧮 Calculator Project
+A fully functional calculator made with vanilla JavaScript to perform basic arithmetic operations.
+
+🧠 Quiz App  
+A simple, interactive quiz application that tests knowledge while practicing DOM manipulation and logic building.
+
+
+📫 Contact
+
+📧 💼  
+
+Fun Facts
+- I enjoy learning new technologies and challenging myself with creative projects.  
+- For me, data and design are both forms of storytelling — I love blending them together!
